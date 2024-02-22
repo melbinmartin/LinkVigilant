@@ -1,0 +1,11 @@
+beautifulsoup4==4.9.3
+flask>=2.2.5
+googlesearch_python==1.0.1
+numpy
+pandas==1.3.4
+python_dateutil==2.8.2
+requests==2.25.1
+scikit_learn==1.0.1
+whois==0.9.13
+gunicorn==20.1.0
+Werkzeug==2.0.2
